@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Interceptor
+namespace ViewBinder
 {
     public abstract class ViewBinding<DomainModel, ViewObject>
     {

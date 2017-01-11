@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Web.UI.WebControls;
 
-namespace Interceptor.Bindings
+namespace ViewBinder.Bindings
 {
     public class DateTimeToTextbox<DomainModel, ViewObject> : ViewBinding<DomainModel, ViewObject>, IViewBinding
     {

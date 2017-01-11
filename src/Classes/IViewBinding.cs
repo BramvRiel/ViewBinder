@@ -1,4 +1,4 @@
-﻿namespace Interceptor
+﻿namespace ViewBinder
 {
     public interface IViewBinding
     {

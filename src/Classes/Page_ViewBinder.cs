@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Interceptor
+namespace ViewBinder
 {
     public sealed class Page_ViewBinder
     {
